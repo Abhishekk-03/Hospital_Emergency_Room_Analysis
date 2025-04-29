@@ -4,10 +4,10 @@
 
 **KPI (Key Performance indigator) Requirements**
 
-➢Number of Patients
-➢Average Wait Time
-➢Patient Satisfaction Score
-➢Number of Patients Referred
+Number of Patients
+Average Wait Time
+Patient Satisfaction Score
+Number of Patients Referred
 
 **Dashboard 1: Monthly View**
 

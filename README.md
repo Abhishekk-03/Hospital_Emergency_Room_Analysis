@@ -2,7 +2,7 @@
 
 **BUSINESS REQUIREMENTS**
 
-# KPI (Key Performance indigator) Requirements
+**KPI (Key Performance indigator) Requirements**
 
 Number of Patients
 Average Wait Time

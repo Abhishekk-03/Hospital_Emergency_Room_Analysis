@@ -1,5 +1,4 @@
 # HOSPITAL-EMERGENCY-ROOM-DASHBOARD
-POWER_BI PROJECT
 
 **📌 Business Objective**
 - The goal of this Power BI dashboard project is to monitor, analyze, and optimize hospital performance by transforming raw healthcare data into actionable insights. This solution supports informed decision-making across departments through interactive and real-time data visualization.

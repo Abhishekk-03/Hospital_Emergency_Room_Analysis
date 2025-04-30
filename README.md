@@ -53,8 +53,7 @@
 - Department Referral
 - Admission Status
 
-**🌐 Tools & Technologies
-Power BI Desktop & Service**
+**🌐 Tools & Technologies**
 
 - DAX for Measures & Calculations
 - Power Query for Data Transformation

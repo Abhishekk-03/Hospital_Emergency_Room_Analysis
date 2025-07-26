@@ -1,14 +1,14 @@
 # HOSPITAL-EMERGENCY-ROOM-DASHBOARD
 
-**📌 Business Objective**
+**Business Objective**
 - The goal of this Power BI dashboard project is to monitor, analyze, and optimize hospital performance by transforming raw healthcare data into actionable insights. This solution supports informed decision-making across departments through interactive and real-time data visualization.
 
-**📅 Dashboard 1: Monthly Performance Overview**
+**Dashboard 1: Monthly Performance Overview**
 
 **Objective:**
 - Provide a month-by-month breakdown of key hospital metrics to help identify recurring patterns, seasonal trends, and opportunities for operational improvement.
 
-**📊 KPI (Key Performance Indicator) Requirements**
+**KPI (Key Performance Indicator) Requirements**
 - Number of Patients
 - Average Wait Time
 - Patient Satisfaction Score
@@ -24,7 +24,7 @@
 - Racial Demographics – Segment patient data by racial groups for DEI analysis.
 - Time-of-Day & Day-of-Week Analysis – Identify peak hours and high-volume days.
 
-**📈 Dashboard 2: Consolidated Performance View**
+**Dashboard 2: Consolidated Performance View**
 
 **Objective:**
 - Deliver a comprehensive summary of key metrics over a customizable date range to support trend analysis, resource planning, and executive reporting.
@@ -35,7 +35,7 @@
 - Flexible date filters for quarterly, semi-annual, or yearly overviews
 - Enhanced trend analysis with rolling averages and period comparisons
 
-**🔍 Dashboard 3: Patient-Level Detail View**
+**Dashboard 3: Patient-Level Detail View**
 
 **Objective:**
 
@@ -53,14 +53,14 @@
 - Department Referral
 - Admission Status
 
-**🌐 Tools & Technologies**
+**Tools & Technologies**
 
 - DAX for Measures & Calculations
 - Power Query for Data Transformation
 - Data Modeling & Relationships
 - Custom Visuals and Conditional Formatting
 
-**🚀 Outcomes & Benefits
+**Outcomes & Benefits
 Enhanced data-driven decision-making**
 
 - Improved patient experience tracking
